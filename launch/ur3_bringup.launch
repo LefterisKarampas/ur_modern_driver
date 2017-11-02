@@ -19,7 +19,7 @@
     <arg name="limited" value="$(arg limited)"/>
   </include>-->
 
-  <include file="$(find ur_description)/launch/ur3_upload.launch">
+  <include file="$(find ur_description)/launch/ur3_pg70_upload.launch">
     <arg name="limited" value="$(arg limited)"/>
   </include>
 
